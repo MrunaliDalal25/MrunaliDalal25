@@ -1,149 +1,106 @@
-Hi there 👋
+# Hi 👋, I'm Mrunali Dalal  
+### Backend Developer | Java • Spring Boot • AWS • Microservices  
 
-<h1 align="center">Hi 👋, I'm Mrunali Dalal</h1>
-<h3 align="center">Backend Developer | Java • Spring Boot • AWS • Microservices</h3>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](YOUR_GITHUB)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:YOUR_EMAIL)
 
-<p align="center">
-<a href="https://www.linkedin.com/in/mrunali-dalal-67b6021a4/">LinkedIn</a> •
-<a href="https://github.com/MrunaliDalal25">GitHub</a> •
-<a href="mailto:mrunalidalal25@gmail.com">Email</a>
-</p>
+---
 
-👩‍💻 About Me
+## 👩‍💻 About Me
 
-💼 Backend Developer at LanceSoft Engineering Pvt Ltd
+- 💼 Backend Developer at **LanceSoft Engineering Pvt Ltd**
+- 💻 **3+ years** experience building REST APIs, Microservices & SQL-optimized systems  
+- ☁️ Skilled in **AWS (EC2, S3, RDS), CI/CD, Docker, Kubernetes**  
+- 🧠 Strong in **DSA, OOP, Design Patterns, System Design**  
+- 🚀 Passionate about building **scalable & high-performance backend systems**
 
-💻 3+ years experience building REST APIs, Microservices, SQL Optimization
+---
 
-☁️ Skilled in AWS (EC2, S3, RDS), CI/CD, Docker, Kubernetes
+## 🚀 Skills & Expertise  
 
-🧠 Strong in DSA, OOP, Design Patterns, System Design
+### **Backend Core**
+`Java` • `Spring Boot` • `Spring MVC` • `Spring Security` • `Hibernate` • `JPA` • `J2EE`
 
-🚀 Passionate about building scalable & high-performance backend systems
+### **Databases**
+`MySQL` • `Oracle` • `MongoDB`
 
-🚀 Skills & Expertise
+### **Architecture**
+`RESTful APIs` • `Microservices` • `Strategy Pattern` • `Observer Pattern`
 
-Category
+### **Cloud & DevOps**
+`AWS (EC2, RDS, S3)` • `Docker` • `Kubernetes` • `Jenkins` • `CI/CD Pipelines`
 
-Technologies
+### **Testing**
+`JUnit` • `TestNG` • `JMeter` • `Postman`
 
-Backend Core
+### **Fundamentals**
+`DSA` • `OOP` • `SOLID Principles` • `Git` • `GitHub` • `Bitbucket`
 
-Java, Spring Boot, Spring MVC, Spring Security, Hibernate, JPA, J2EE
+---
 
-Databases
+## 🏆 Technical Achievements & Problem Solving
 
-MySQL, Oracle, MongoDB
+### 📊 LeetCode & DSA Practice
 
-Architecture
+![LeetCode Badge](https://img.shields.io/badge/LeetCode-Active%20Learner-orange?logo=leetcode)
+![Java Badge](https://img.shields.io/badge/Java-Gold-%23FFD700)
+![SQL Badge](https://img.shields.io/badge/SQL-Gold-%23FFD700)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-Silver-%23C0C0C0)
 
-RESTful APIs, Microservices Architecture, Design Patterns (Strategy, Observer)
+> (Add your heatmap + stats cards here if you want — I can generate them.)
 
-Cloud & DevOps
+### 🟩 HackerRank Badges
 
-AWS (EC2, RDS, S3), Docker, Kubernetes, Jenkins, CI/CD Pipelines
+![HackerRank Problem Solving](https://img.shields.io/badge/HackerRank%20Problem%20Solving-Silver-%2300EA64?logo=hackerrank&logoColor=white)
+![HackerRank SQL](https://img.shields.io/badge/HackerRank%20SQL-Gold-%2300EA64?logo=hackerrank&logoColor=white)
+![HackerRank Java](https://img.shields.io/badge/HackerRank%20Java-Silver-%2300EA64?logo=hackerrank&logoColor=white)
 
-Testing
+---
 
-JUnit, TestNG, JMeter, Postman
+## 🏅 Certifications & Recognition
 
-Fundamentals
+| Achievement | Badge | Details |
+|------------|--------|---------|
+| Backend Development | 🟦 | Backend Development & APIs Certificate |
+| Advanced SQL | 🟨 | Advanced SQL Course Certificate |
+| HackerRank | 🟩 | Problem Solving Proficiency |
+| Impact | ⭐ | Resolved 100+ critical bugs → improved uptime by **25%** |
+| Workplace Recognition | 🏅 | Top Performer |
 
-Data Structures & Algorithms, OOP, SOLID Principles, Git, GitHub, Bitbucket
+---
 
-🏆 Technical Achievements & Problem Solving
+## 💼 Professional Experience
 
-This section showcases your dedication to coding and continuous learning.
+### **Software Developer – LanceSoft Engineering Pvt Ltd, Hyderabad (Sep 2023 - Present)**  
+- Developed **12+ REST APIs and microservices** using Java & Spring Boot  
+- Improved database performance by **28%** via SQL tuning & caching  
+- Managed **AWS deployments (EC2, RDS, S3)** and integrated ELK Stack  
+- Resolved **80+ backend defects**, reducing production issues by **30%**
 
-📊 LeetCode & DSA Practice
+### **Java Developer Intern – Programmers Infotech, Nagpur (Jun 2021 - Jun 2022)**  
+- Developed backend modules using Java, JDBC, Hibernate, Spring MVC  
+- Increased test coverage using JUnit test suites  
 
-<!-- IMPORTANT: Replace 'YOUR_LEETCODE_USERNAME' with your actual username -->
+---
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://leetcard.jacoblin.be/YOUR_LEETCODE_USERNAME%3Ftheme%3Ddark%26ext%3Dactivity" alt="LeetCode Stats Card" />
-<img src="https://www.google.com/search?q=https://leetcode-calendar.com/api%3Fusername%3DYOUR_LEETCODE_USERNAME%26theme%3Ddark" alt="LeetCode Activity Heatmap" />
-</p>
+## 💡 Key Projects
 
-🏅 Certifications & Recognition
+| Project | Tech Stack | Highlights |
+|--------|------------|------------|
+| **ALL PROS – Home Service App** | Java, Spring Boot, Microservices, AWS, JMeter, JUnit | Designed scalable microservices, deployed on AWS, improved system performance by **30%**, implemented JWT auth |
+| **BOARD APP – Recruitment Platform** | Java, Spring Boot, Microservices, JUnit, TestNG | Used Strategy & Observer patterns, reduced code coupling by **40%**, increased automation coverage by **35%** |
 
-<!-- IMPORTANT: Replace all 'YOUR_CERT_ID' and 'YOUR_HACKERRANK_USERNAME' placeholders below -->
+---
 
-Achievement
+## 🎓 Education  
+**B.Tech in Information Technology**  
+JD College of Engineering & Management, Nagpur (2017–2021)  
+**CGPA:** 8.34 / 10  
 
-Badge
+---
 
-Details
+## 📈 GitHub Activity Stats
 
-Backend Development
+(If you want these, I’ll generate your personal cards)
 
-
-
-Backend Development & APIs Certificate
-
-Advanced SQL
-
-
-
-Advanced SQL Course Certificate
-
-HackerRank
-
-
-
-Problem Solving Proficiency
-
-Impact
-
-Resolved 100+ critical bugs, improving system uptime by 25%.
-
-Top Performer Recognition
-
-💼 Professional Experience
-
-Software Developer | LanceSoft Engineering Pvt Ltd, Hyderabad (Sep 2023 - Present)
-
-Developed 12+ REST APIs and microservices using Java, Spring Boot, and Hibernate.
-
-Improved database performance by 28% through SQL optimization and caching enhancements.
-
-Managed AWS deployments (EC2, RDS, S3) and integrated ELK Stack, increasing monitoring efficiency by 40%.
-
-Resolved 80+ backend defects, reducing production issues by 30%.
-
-Java Developer Intern | Programmers Infotech, Nagpur (Jun 2021 - Jun 2022)
-
-Developed backend modules using Java, JDBC, Hibernate, and Spring MVC.
-
-Increased test coverage by creating unit tests using JUnit.
-
-💡 Key Projects
-
-Project Name
-
-Tech Stack
-
-Highlights & Impact
-
-ALL PROS - Home Service App
-
-Java, Spring Boot, Microservices, AWS, JMeter, JUnit
-
-Designed scalable microservices architecture and deployed on AWS. Optimized system performance by 30%. Implemented secure JWT authentication.
-
-BOARD APP - Recruitment Platform
-
-Java, Spring Boot, Microservices, JUnit, TestNG
-
-Applied Strategy and Observer patterns to reduce code coupling by 40%. Increased QA automation coverage by 35%.
-
-🎓 Education
-
-B.Tech in Information Technology – JD College of Engineering & Management, Nagpur (2017-2021) | CGPA: 8.34/10
-
-📈 GitHub Activity Stats
-
-<!-- Replace 'MrunaliDalal25' with your actual GitHub username -->
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DMrunaliDalal25%26show_icons%3Dtrue%26theme%3Ddark%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Mrunali's GitHub Stats" />
-</p>
