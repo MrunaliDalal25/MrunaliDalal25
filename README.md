@@ -85,12 +85,34 @@
 
 ## 🔥 LeetCode Stats & Badges
 
-### 🔸 LeetCode Badges
-<div align="left">
-  <img src="https://leetcode.com/static/images/badges/dcc-2023-02.png" width="90" />
-  <img src="https://leetcode.com/static/images/badges/dcc-2023-03.png" width="90" />
-  <img src="https://leetcode.com/static/images/badges/dcc-2023-04.png" width="90" />
-</div>
+## 🧑‍💻 LeetCode Profile Statistics
+
+Showcase your LeetCode progress and activity on your GitHub README.
+
+---
+
+### 📊 LeetCode Stats Card  
+This card displays your total problems solved, global rank, and difficulty breakdown.
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/mrunalidal25?theme=dark&font=Roboto&ext=heatmap)
+
+---
+
+### 📅 Submission Activity Heatmap  
+Shows your yearly activity similar to the calendar in your screenshot.
+
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/mrunalidal25?theme=dark&font=Roboto&ext=calendar)
+
+---
+
+### 🏅 LeetCode Trophy (Optional)  
+Shows your overall LeetCode achievements: contests, streaks, badges, etc.
+
+![LeetCode Trophy](https://github-profile-trophy.vercel.app/?username=mrunalidal25&title=Commit,Stars,Repositories,Followers&theme=darkhub&no-frame=true&row=1&column=4)
+
+---
+
+
 
 ### 🔸 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mrunalidal25?theme=dark&font=Roboto&ext=activity)
