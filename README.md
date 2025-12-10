@@ -36,16 +36,31 @@
 
 ---
 
-## 🟢 HackerRank Badges
+## 🏅 HackerRank Skills, Badges & Certificates
 
 <div align="center">
 
-<img src="https://hrcdn.net/community-frontend/assets/badges/problem-solving-badge.png" width="95" />
-<img src="https://hrcdn.net/community-frontend/assets/badges/java-badge.png" width="95" />
-<img src="https://hrcdn.net/community-frontend/assets/badges/30-days-of-code-badge.png" width="95" />
-<img src="https://hrcdn.net/community-frontend/assets/badges/sql-badge.png" width="95" />
+### 🔹 Java (Certified)
+<a href="YOUR_JAVA_CERTIFICATE_LINK" target="_blank">
+  <img src="https://hrcdn.net/community-frontend/assets/badges/java-badge.png" width="90" />
+</a>
 
+### 🔹 SQL (Intermediate - Certified)
+<a href="YOUR_SQL_CERTIFICATE_LINK" target="_blank">
+  <img src="https://hrcdn.net/community-frontend/assets/badges/sql-badge.png" width="90" />
+</a>
+
+### 🔹 Python (Basic - Certified)
+<a href="YOUR_PYTHON_CERTIFICATE_LINK" target="_blank">
+  <img src="https://hrcdn.net/community-frontend/assets/badges/python-badge.png" width="90" />
+</a>
+
+### 🔹 Problem Solving (Badge)
+<a href="YOUR_HACKERRANK_PROFILE" target="_blank">
+  <img src="https://hrcdn.net/community-frontend/assets/badges/problem-solving-badge.png" width="90" />
+</a>
 </div>
+
 
 ### 🔸 Google Developer Badges
 <div align="left">
