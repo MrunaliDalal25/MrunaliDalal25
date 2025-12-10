@@ -1,159 +1,149 @@
-## Hi there 👋
+Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Mrunali Dalal</h1>
 <h3 align="center">Backend Developer | Java • Spring Boot • AWS • Microservices</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mrunali-dalal-67b6021a4/">LinkedIn</a> •
-  <a href="https://github.com/MrunaliDalal25">GitHub</a> •
-  <a href="mailto:mrunalidalal25@gmail.com">Email</a>
+<a href="https://www.linkedin.com/in/mrunali-dalal-67b6021a4/">LinkedIn</a> •
+<a href="https://github.com/MrunaliDalal25">GitHub</a> •
+<a href="mailto:mrunalidalal25@gmail.com">Email</a>
 </p>
 
----
+👩‍💻 About Me
 
-## 👩‍💻 About Me
+💼 Backend Developer at LanceSoft Engineering Pvt Ltd
 
-- 💼 Backend Developer at **LanceSoft Engineering Pvt Ltd**
-- 💻 3+ years experience building **REST APIs, Microservices, SQL Optimization**
-- ☁️ Skilled in **AWS (EC2, S3, RDS)**, CI/CD, Docker, Kubernetes
-- 🧠 Strong in **DSA, OOP, Design Patterns, System Design**
-- 🚀 Passionate about building **scalable & high-performance backend systems**
+💻 3+ years experience building REST APIs, Microservices, SQL Optimization
 
----
+☁️ Skilled in AWS (EC2, S3, RDS), CI/CD, Docker, Kubernetes
 
-## 🛠 Tech Stack
+🧠 Strong in DSA, OOP, Design Patterns, System Design
 
-**Languages & Frameworks**  
-<img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,javascript" />
+🚀 Passionate about building scalable & high-performance backend systems
 
-**Databases**  
-<img src="https://skillicons.dev/icons?i=mysql,oracle,mongodb" />
+🚀 Skills & Expertise
 
-**Cloud & DevOps**  
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins" />
+Category
 
-**Tools**  
-<img src="https://skillicons.dev/icons?i=git,github,postman,idea" />
+Technologies
 
----
+Backend Core
 
-## 🏅 HackerRank Skills, Badges & Certificates
+Java, Spring Boot, Spring MVC, Spring Security, Hibernate, JPA, J2EE
 
-<h2 align="center">
-  <img src="https://hrcdn.net/community-frontend/assets/brand/hr-logo-new-black-green-2.png" width="45" />
-  HackerRank Skills, Badges & Certificates
-</h2>
+Databases
 
-<div align="center">
+MySQL, Oracle, MongoDB
 
-### 🔹 Java (Certified)
-<a href="YOUR_JAVA_CERTIFICATE_LINK" target="_blank">
-  <img src="https://hrcdn.net/community-frontend/assets/badges/java-badge.png" width="95" />
-</a>
+Architecture
 
----
+RESTful APIs, Microservices Architecture, Design Patterns (Strategy, Observer)
 
-### 🔹 SQL (Intermediate - Certified)
-<a href="YOUR_SQL_CERTIFICATE_LINK" target="_blank">
-  <img src="https://hrcdn.net/community-frontend/assets/badges/sql-badge.png" width="95" />
-</a>
+Cloud & DevOps
 
----
+AWS (EC2, RDS, S3), Docker, Kubernetes, Jenkins, CI/CD Pipelines
 
-### 🔹 Python (Basic - Certified)
-<a href="YOUR_PYTHON_CERTIFICATE_LINK" target="_blank">
-  <img src="https://hrcdn.net/community-frontend/assets/badges/python-badge.png" width="95" />
-</a>
+Testing
 
----
+JUnit, TestNG, JMeter, Postman
 
-### 🔹 Problem Solving (Badge)
-<a href="YOUR_HACKERRANK_PROFILE" target="_blank">
-  <img src="https://hrcdn.net/community-frontend/assets/badges/problem-solving-badge.png" width="95" />
-</a>
+Fundamentals
 
-</div>
+Data Structures & Algorithms, OOP, SOLID Principles, Git, GitHub, Bitbucket
 
+🏆 Technical Achievements & Problem Solving
 
-### 🔸 Google Developer Badges
-<div align="left">
-  <img src="https://developers.google.com/profile/badges/events/io/2025" width="80"/>
-  <img src="https://developers.google.com/profile/badges/gd" width="80"/>
-  <img src="https://developers.google.com/profile/badges/cloud-innovators" width="80"/>
-</div>
+This section showcases your dedication to coding and continuous learning.
 
----
+📊 LeetCode & DSA Practice
 
-## 🔥 LeetCode Stats & Badges
+<!-- IMPORTANT: Replace 'YOUR_LEETCODE_USERNAME' with your actual username -->
 
-## 🧑‍💻 LeetCode Profile Statistics
+<p align="center">
+<img src="https://www.google.com/search?q=https://leetcard.jacoblin.be/YOUR_LEETCODE_USERNAME%3Ftheme%3Ddark%26ext%3Dactivity" alt="LeetCode Stats Card" />
+<img src="https://www.google.com/search?q=https://leetcode-calendar.com/api%3Fusername%3DYOUR_LEETCODE_USERNAME%26theme%3Ddark" alt="LeetCode Activity Heatmap" />
+</p>
 
-Showcase your LeetCode progress and activity on your GitHub README.
+🏅 Certifications & Recognition
 
----
+<!-- IMPORTANT: Replace all 'YOUR_CERT_ID' and 'YOUR_HACKERRANK_USERNAME' placeholders below -->
 
-### 📊 LeetCode Stats Card  
-This card displays your total problems solved, global rank, and difficulty breakdown.
+Achievement
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/mrunalidal25?theme=dark&font=Roboto&ext=heatmap)
+Badge
 
----
+Details
 
-### 📅 Submission Activity Heatmap  
-Shows your yearly activity similar to the calendar in your screenshot.
-
-![LeetCode Heatmap](https://leetcard.jacoblin.cool/mrunalidal25?theme=dark&font=Roboto&ext=calendar)
-
----
-
-### 🏅 LeetCode Trophy (Optional)  
-Shows your overall LeetCode achievements: contests, streaks, badges, etc.
-
-![LeetCode Trophy](https://github-profile-trophy.vercel.app/?username=mrunalidal25&title=Commit,Stars,Repositories,Followers&theme=darkhub&no-frame=true&row=1&column=4)
-
----
+Backend Development
 
 
 
-### 🔸 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/mrunalidal25?theme=dark&font=Roboto&ext=activity)
+Backend Development & APIs Certificate
 
----
+Advanced SQL
 
-## ⚡ GitHub Statistics
 
-<div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MrunaliDalal25&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrunaliDalal25&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrunaliDalal25&layout=compact&theme=dark)
+Advanced SQL Course Certificate
 
-</div>
+HackerRank
 
----
 
-## 🚀 Featured Projects
 
-### 🔹 **ALL PROS – Home Service Application**
-- Java, Spring Boot, Microservices, AWS, JUnit, JMeter  
-- Improved system performance by **30%**  
-- Designed microservices architecture & performed load testing  
-- Implemented JWT authentication for secure access  
+Problem Solving Proficiency
 
----
+Impact
 
-### 🔹 **BOARD APP – Recruitment Platform**
-- Java, Spring Boot, TestNG, Microservices  
-- Increased QA automation coverage by **35%**  
-- Implemented Strategy & Observer design patterns  
+Resolved 100+ critical bugs, improving system uptime by 25%.
 
----
+Top Performer Recognition
 
-## 📫 Connect with Me
-📌 **Portfolio:** https://mrunali-dalal-u8up4wf.gamma.site/  
-📌 **LinkedIn:** https://www.linkedin.com/in/mrunali-dalal-67b6021a4/  
-📌 **GitHub:** https://github.com/MrunaliDalal25  
-📌 **Email:** mrunalidalal25@gmail.com  
+💼 Professional Experience
 
----
+Software Developer | LanceSoft Engineering Pvt Ltd, Hyderabad (Sep 2023 - Present)
 
-⭐ *Thanks for visiting my profile! Feel free to connect or collaborate.*  
+Developed 12+ REST APIs and microservices using Java, Spring Boot, and Hibernate.
+
+Improved database performance by 28% through SQL optimization and caching enhancements.
+
+Managed AWS deployments (EC2, RDS, S3) and integrated ELK Stack, increasing monitoring efficiency by 40%.
+
+Resolved 80+ backend defects, reducing production issues by 30%.
+
+Java Developer Intern | Programmers Infotech, Nagpur (Jun 2021 - Jun 2022)
+
+Developed backend modules using Java, JDBC, Hibernate, and Spring MVC.
+
+Increased test coverage by creating unit tests using JUnit.
+
+💡 Key Projects
+
+Project Name
+
+Tech Stack
+
+Highlights & Impact
+
+ALL PROS - Home Service App
+
+Java, Spring Boot, Microservices, AWS, JMeter, JUnit
+
+Designed scalable microservices architecture and deployed on AWS. Optimized system performance by 30%. Implemented secure JWT authentication.
+
+BOARD APP - Recruitment Platform
+
+Java, Spring Boot, Microservices, JUnit, TestNG
+
+Applied Strategy and Observer patterns to reduce code coupling by 40%. Increased QA automation coverage by 35%.
+
+🎓 Education
+
+B.Tech in Information Technology – JD College of Engineering & Management, Nagpur (2017-2021) | CGPA: 8.34/10
+
+📈 GitHub Activity Stats
+
+<!-- Replace 'MrunaliDalal25' with your actual GitHub username -->
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DMrunaliDalal25%26show_icons%3Dtrue%26theme%3Ddark%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Mrunali's GitHub Stats" />
+</p>
