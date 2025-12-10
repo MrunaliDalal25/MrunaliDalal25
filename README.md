@@ -36,14 +36,15 @@
 
 ---
 
-## 🏆 Achievements & Badges
+## 🟢 HackerRank Badges
 
-### 🔸 HackerRank Badges
-<div align="left">
-  <img src="https://hrcdn.net/community-frontend/assets/badges/problem-solving-badge.png" width="80"/>
-  <img src="https://hrcdn.net/community-frontend/assets/badges/java-badge.png" width="80"/>
-  <img src="https://hrcdn.net/community-frontend/assets/badges/30-days-of-code-badge.png" width="80"/>
-  <img src="https://hrcdn.net/community-frontend/assets/badges/sql-badge.png" width="80"/>
+<div align="center">
+
+<img src="https://hrcdn.net/community-frontend/assets/badges/problem-solving-badge.png" width="95" />
+<img src="https://hrcdn.net/community-frontend/assets/badges/java-badge.png" width="95" />
+<img src="https://hrcdn.net/community-frontend/assets/badges/30-days-of-code-badge.png" width="95" />
+<img src="https://hrcdn.net/community-frontend/assets/badges/sql-badge.png" width="95" />
+
 </div>
 
 ### 🔸 Google Developer Badges
