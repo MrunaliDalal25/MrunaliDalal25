@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mrunali Dalal</h1>
-<h3 align="center">Senior Java Backend Developer | Java • Spring Boot • Microservices • AWS</h3>
+<h3 align="center">Senior Software Developer | Java • Spring Boot • Microservices • AWS</h3>
 
 <p align="center">
   <a href="mailto:mrunalidalal25@gmail.com">Email</a> •
@@ -18,7 +18,7 @@
 - 💼 **Senior Java Backend Developer**
 - 🧠 **4+ years of experience** building scalable backend systems
 - ⚙️ Specialized in **Java, Spring Boot, Microservices Architecture**
-- ☁️ Strong experience in **AWS cloud infrastructure**
+- ☁️ Hands on experience on **AWS cloud infrastructure**
 - 🔄 Expertise in **CI/CD automation, distributed systems & performance optimization**
 - 📈 Focused on **system stability, scalability, and production reliability**
 
