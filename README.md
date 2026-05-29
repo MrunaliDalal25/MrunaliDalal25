@@ -16,7 +16,7 @@
 ## 👩‍💻 About Me
 
 - 💼 **Senior Java Backend Developer**
-- 🧠 **3+ years of experience** building scalable backend systems
+- 🧠 **4+ years of experience** building scalable backend systems
 - ⚙️ Specialized in **Java, Spring Boot, Microservices Architecture**
 - ☁️ Strong experience in **AWS cloud infrastructure**
 - 🔄 Expertise in **CI/CD automation, distributed systems & performance optimization**
