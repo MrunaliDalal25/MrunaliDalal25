@@ -157,4 +157,18 @@ JD College of Engineering and Management, Nagpur
 
 ---
 
+
+## 🐍 GitHub Contribution Snake
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/MrunaliDalal25/MrunaliDalal25/output/github-contribution-grid-snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/MrunaliDalal25/MrunaliDalal25/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake"
+       src="https://raw.githubusercontent.com/MrunaliDalal25/MrunaliDalal25/output/github-contribution-grid-snake.svg">
+</picture>
+
 ⭐ *Feel free to explore my repositories, raise issues, and collaborate!*  
