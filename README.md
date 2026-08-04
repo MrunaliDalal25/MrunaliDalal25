@@ -1,174 +1,61 @@
-<h1 align="center">Hi 👋, I'm Mrunali Dalal</h1>
-<h3 align="center">Senior Software Developer | Java • Spring Boot • Microservices • AWS</h3>
+# Hey there, I'm Mrunali Dalal 👋
 
-<p align="center">
-  <a href="mailto:mrunalidalal25@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/mrunali-dalal-67b6021a4/">LinkedIn</a> •
-  <a href="https://github.com/MrunaliDalal25">GitHub</a>
-</p>
-
-<p align="center">
-  🚀 Building scalable, cloud-native backend systems with high availability & performance
-</p>
+##### Senior Java Backend Developer | Spring Boot | Microservices | Kafka | AWS
 
 ---
 
-## 👩‍💻 About Me
+- 💻 Java Backend Developer with 4 years of experience
+- 🚀 Building scalable Microservices and REST APIs
+- ☁️ Working with AWS, Kafka, Docker, and SQL Databases
+- 🌱 Currently improving DSA, System Design, and Cloud skills
+- ⚡ Fun fact: I enjoy solving coding challenges and learning new technologies
 
-- 💼 **Senior Software Developer**
-- 🧠 **4+ years of experience** building scalable backend systems
-- ⚙️ Specialized in **Java, Spring Boot, Microservices Architecture**
-- ☁️ Hands on experience on **AWS cloud infrastructure**
-- 🔄 Expertise in **CI/CD automation, distributed systems & performance optimization**
-- 📈 Focused on **system stability, scalability, and production reliability**
+<h3 align="left">Connect with me:</h3>
 
----
-
-## 🛠 Skills & Technology Stack (Resume-Based)
-
-### 🔹 Programming & Backend
-`Java` • `Spring Boot` • `Spring Framework` • `Microservices` • `REST APIs`  
-`Backend Development` • `Server-Side Systems`
-
-### 🔹 Databases & Storage
-`PostgreSQL` • `MySQL` • `MongoDB` • `Redis`  
-`SQL` • `NoSQL` • `Query Optimization` • `Indexing`
-
-### 🔹 Cloud & DevOps
-`AWS (EC2, S3, RDS, IAM, CloudWatch)`  
-`Docker` • `Kubernetes` • `Jenkins` • `GitHub Actions`  
-`CI/CD Pipelines` • `Infrastructure as Code`
-
-### 🔹 Messaging & Architecture
-`Apache Kafka` • `Event-Driven Architecture`  
-`Asynchronous Processing` • `Distributed Systems`
-
-### 🔹 ORM & Data Access
-`Hibernate` • `JPA` • `JDBC`  
-`Connection Pooling` • `Transaction Management`
-
-### 🔹 Monitoring & Observability
-`ELK Stack` • `Grafana` • `Logging` • `Metrics` • `Alerting`
-
-### 🔹 Testing & Quality
-`JUnit` • `TestNG`  
-`Unit Testing` • `Integration Testing` • `Performance Testing` • `API Testing`
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mrunali-dalal-67b6021a4)
+[![GitHub](https://img.shields.io/badge/GitHub-black.svg?style=for-the-badge&logo=github)](https://github.com/MrunaliDalal25)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/mrunalidalal25)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrunalidalal25@gmail.com)
 
 ---
 
-## 🏆 Engineering Impact
+## 🛠 Languages and Tools
 
-- ⚡ Reduced API latency by **30%** using SQL optimization, indexing & Redis caching  
-- 🚀 Increased asynchronous throughput by **25%** using Kafka pipelines  
-- 🔄 Automated CI/CD workflows → **40% faster deployments**  
-- 🛡 Maintained **99.9% uptime** on AWS production systems  
-- 🐞 Lowered production incidents by **35%** using centralized logging & monitoring  
-
----
-
-## 💼 Professional Experience
-
-### **Java Software Engineer – Backend**
-**LanceSoft Engineering Pvt Ltd** | Remote, India  
-📅 *Sep 2023 – Present*
-
-- Delivered Spring Boot microservices supporting **10,000+ active users**
-- Optimized SQL queries, indexing & Redis caching → **30% latency reduction**
-- Engineered **Kafka-based event pipelines** → **25% throughput increase**
-- Automated CI/CD workflows → **40% faster deployments**
-- Managed AWS deployments with **99.9% uptime**
-- Built centralized logging & monitoring → **35% fewer incidents**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### **Junior Backend Developer**
-**Left Right Mind** | Pune, India  
-📅 *Aug 2022 – Aug 2023*
+## 📊 GitHub Stats
 
-- Developed backend services using Java & Spring Boot
-- Tuned database queries → **25% performance improvement**
-- Integrated third-party REST APIs → **30% automation efficiency**
-- Built unit & integration tests → **30% defect reduction**
-- Refactored legacy modules → **15% defect leakage reduction**
+![Mrunali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrunaliDalal25&show_icons=true&hide_border=true&count_private=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrunaliDalal25&layout=compact&theme=radical)
 
 ---
 
-### **Java Developer Trainee**
-**Programmers Infotech** | Nagpur, India  
-📅 *Jun 2021 – Jun 2022*
+## 🏆 Achievements
 
-- Built backend modules using Java, JDBC, Hibernate & Spring MVC
-- Supported **20+ REST APIs**, improving reliability
-- Refactored legacy code → **20% technical debt reduction**
-
----
-
-## 🚀 Projects
-
-### 🏠 **ALL PROS – Home Services Application**
-- RESTful backend for bookings & order management
-- AWS-based microservices deployment
-- Improved throughput by **25%**
-
-### 🧑‍💼 **BOARD APP – Recruitment Management Platform**
-- Backend workflows using Spring Boot microservices
-- Applied Spring Security
-- Automated validation testing → **40% QA effort reduction**
+- 🥇 HackerRank Gold Badge – Java
+- 🥇 HackerRank Gold Badge – SQL
+- ☁️ AWS Certified Learning Paths
+- 📈 Built scalable REST APIs and Microservices serving production workloads
 
 ---
 
-## 🎓 Education
+## 👀 Profile Views
 
-🎓 **B.Tech – Information Technology**  
-JD College of Engineering and Management, Nagpur  
-📅 *2018 – 2021*
-
----
-
-## 🧠 Certifications & Recognition
-
-- 🟢 HackerRank **Gold Badge – Java**
-- 🟢 HackerRank **Gold Badge – SQL**
-- 📜 Backend Development and APIs – freeCodeCamp
-- 📜 Generative AI Fundamentals – LinkedIn Learning
-- 🌐 Google Cloud Arcade Participant
-- 📊 Kaggle – Data Science & ML Challenges
-
----
-
-## 📌 Featured Repositories
-
-- 🔹 **Springboot-Projects** – Production backend services  
-- 🔹 **HackerRank-Solutions** – Java & SQL problem solving  
-- 🔹 **Java-Codes** – Core Java + DSA  
-- 🔹 **Microservices-Architecture** – Scalable backend systems  
-
----
-
-## 🤝 Let’s Connect
-
-💼 Open for:
-- Backend Engineering Roles  
-- Product-Based Companies  
-- Platform & Distributed Systems Teams  
-
-📫 **Email:** mrunalidalal25@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/mrunali-dalal-67b6021a4/
-
----
-
-
-## 🐍 GitHub Contribution Snake
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/MrunaliDalal25/MrunaliDalal25/output/github-contribution-grid-snake-dark.svg">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/MrunaliDalal25/MrunaliDalal25/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake"
-       src="https://raw.githubusercontent.com/MrunaliDalal25/MrunaliDalal25/output/github-contribution-grid-snake.svg">
-</picture>
-
-⭐ *Feel free to explore my repositories, raise issues, and collaborate!*  
+![](https://komarev.com/ghpvc/?username=MrunaliDalal25&style=for-the-badge&color=blue)
