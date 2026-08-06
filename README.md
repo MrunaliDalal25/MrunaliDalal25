@@ -14,8 +14,9 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mrunali-dalal-67b6021a4)
 [![GitHub](https://img.shields.io/badge/GitHub-black.svg?style=for-the-badge&logo=github)](https://github.com/MrunaliDalal25)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/mrunalidalal25)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white)(https://www.hackerrank.com/profile/mrunalidalal25)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrunalidalal25@gmail.com)
+leetcode
 
 ---
 
