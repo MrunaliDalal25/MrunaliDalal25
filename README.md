@@ -1,5 +1,5 @@
-## Hey there, I'm Mrunali Dalal 👋
-##### ##### A believer in excellence, a curious learner, and a backend Developer committed to building scalable, reliable software.
+ Hey there, I'm Mrunali Dalal 👋
+  A believer in excellence, a curious learner, and a backend Developer committed to building scalable, reliable software.
 ---
 
 - 🔭 Software Developer
