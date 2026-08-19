@@ -3,7 +3,6 @@
 ---
 
 - 🔭 Software Developer
-- 🌱 Learning AWS, System Design & Distributed Systems
 - 💻 Building Scalable Backend Applications
 - ⚡ Fun fact: I enjoy solving LeetCode problems and optimizing APIs
 
