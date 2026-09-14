@@ -9,14 +9,11 @@ I focus on writing reliable backend code, optimizing APIs and SQL queries, worki
 ---
 
 ## 🛠️ Tech Stack
-
 **Languages**
-
 * Java
 * SQL
-
+  
 **Backend**
-
 * Spring Boot
 * Spring Security
 * REST APIs
@@ -24,14 +21,12 @@ I focus on writing reliable backend code, optimizing APIs and SQL queries, worki
 * Hibernate / JPA
 
 **Messaging & Data**
-
 * Apache Kafka
 * MySQL
 * PostgreSQL
 * Redis
 
 **Cloud & DevOps**
-
 * AWS
 * Docker
 * Kubernetes
@@ -39,7 +34,6 @@ I focus on writing reliable backend code, optimizing APIs and SQL queries, worki
 * Maven
 
 **Testing & Tools**
-
 * JUnit 5
 * Postman
 * Git
@@ -48,7 +42,6 @@ I focus on writing reliable backend code, optimizing APIs and SQL queries, worki
 ---
 
 ## 🚀 Featured Projects
-
 ### 🔹 LeetCode Solutions
 
 A collection of my Java solutions covering **Data Structures, Algorithms, Problem Solving, and SQL**.
@@ -64,7 +57,6 @@ I'm building backend projects using **Java, Spring Boot, Microservices, Kafka, P
 ---
 
 ## 💻 Coding Practice
-
 * **LeetCode:** [mrunalidalal25](https://leetcode.com/u/mrunalidalal25/)
 * **HackerRank:** [mrunalidalal25](https://www.hackerrank.com/profile/mrunalidalal25)
 
@@ -73,7 +65,6 @@ I regularly practice **DSA, Java, and SQL** and maintain my solutions publicly.
 ---
 
 ## 🏆 Certifications & Learning
-
 * Java (Basic) — HackerRank
 * Spring Boot Fundamentals — VMware Spring Academy
 * AWS Cloud Practitioner Essentials — AWS Skill Builder
@@ -84,11 +75,10 @@ Currently strengthening my knowledge of **backend architecture, AWS, distributed
 ---
 
 ## 📊 GitHub Stats
+🔥 LeetCode Stats
 
-![Mrunali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrunaliDalal25\&show_icons=true\&hide_border=true\&count_private=true)
-
----
-
+👀 Profile Views
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MrunaliDalal25&label=Profile%20Views&color=301E67&style=for-the-badge" alt="Profile Views" /> </p>
 ## 📫 Connect With Me
 
 * **LinkedIn:** [Mrunali Dalal](https://linkedin.com/in/mrunali-dalal-67b6021a4/)
