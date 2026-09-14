@@ -74,9 +74,13 @@ Currently strengthening my knowledge of **backend architecture, AWS, distributed
 
 ---
 
-## 📊 GitHub Stats
-🔥 LeetCode Stats
+## 🔥 LeetCode Stats
 
+![Mrunali's LeetCode Stats](https://leetcard.jacoblin.cool/mrunalidalal25?ext=heatmap)
+
+---
+
+## 📊 GitHub Stats
 👀 Profile Views
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MrunaliDalal25&label=Profile%20Views&color=301E67&style=for-the-badge" alt="Profile Views" /> </p>
 ## 📫 Connect With Me
