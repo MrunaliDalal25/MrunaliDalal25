@@ -73,16 +73,22 @@ I regularly practice **DSA, Java, and SQL** and maintain my solutions publicly.
 Currently strengthening my knowledge of **backend architecture, AWS, distributed systems, and AI-assisted application development**.
 
 ---
+## 📊 GitHub Stats
+
+![Mrunali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrunaliDalal25&show_icons=true&hide_border=true&theme=radical)
 
 ## 🔥 LeetCode Stats
 
-![Mrunali's LeetCode Stats](https://leetcard.jacoblin.cool/mrunalidalal25?ext=heatmap)
+![Mrunali's LeetCode Stats](https://leetcard.jacoblin.cool/mrunalii_d07?ext=heatmap)
+
+## 👀 Profile Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=MrunaliDalal25&label=Profile%20Views&color=301E67&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
-👀 Profile Views
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MrunaliDalal25&label=Profile%20Views&color=301E67&style=for-the-badge" alt="Profile Views" /> </p>
 ## 📫 Connect With Me
 
 * **LinkedIn:** [Mrunali Dalal](https://linkedin.com/in/mrunali-dalal-67b6021a4/)
